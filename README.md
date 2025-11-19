@@ -23,8 +23,6 @@ This project applies **Revenue Management (RM)** principles to optimise fleet ut
 
 ---
 
-## Skills & Tools Used
-
 ## 🛠️ Skills & Tools Used
 
 <p align="left">
