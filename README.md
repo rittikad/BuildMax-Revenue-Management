@@ -125,5 +125,5 @@ This project applies **Revenue Management (RM)** principles to optimise fleet ut
 ## Quick Links
 - [Code](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Code.py) – Python scripts for analysis and optimisation  
 - [Data](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Data.xlsx) – Historical rental data and processed datasets  
-- [Report](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Report.pdf)  
-- [Presentation](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Presentation.pptx)
+- [Report](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Report.pdf) -  Complete written analysis 
+- [Presentation](https://github.com/rittikad/BuildMax-Revenue-Management/blob/main/Presentation.pptx) - Executive summary of findings
